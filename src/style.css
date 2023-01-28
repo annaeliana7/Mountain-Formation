@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Unbounded:wght@300&display=swap');
 
 * {
   font-family: sans-serif;
   margin:0;
   padding:0;
   background-color: #e5e5e5;
+  color: #575555;
 }
 
 /* header */
@@ -73,3 +75,28 @@
 .next {
   right: 0;
 }
+
+/* blog post */
+
+  .blog-post {
+    padding: 25px;
+    box-sizing: border-box;
+    width: 100%;
+  }
+  .blog-content {
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 25px;
+  }
+
+  h3 {
+    padding: 25px;
+    font-family: 'Unbounded', cursive, sans-serif;
+    font-size: 25px;
+  }
+
+  .blog-content p {
+    margin-bottom: 1em;
+    font-size: 23px;
+    font-family: 'Montserrat', sans-serif;
+  }
