@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+
   <img src="kefi-Unearthed-5.png" alt="logo" width="280"  height="auto" />
     <h3><b>Anna Petras for KING YESHUA - Kefi Unearthed</b></h3>
   <br/>
@@ -39,18 +39,20 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 NAME OF PROJECT<a name="about-project"></a>
+# 📖 Mountain Formation<a name="about-project"></a>
 
-**ToDo List** is a project ...complete sentence
+**Mountain Formation** 
+<br>
+The Mountain Formation Repo project combines HTML, CSS, and JavaScript to create an attractive carousel feature that illustrates the formation of mountains using captivating images. Additionally, an educational blog about the topic is provided to deepen the user's understanding.
 
 <br>
 
 ## 🛠 Built With <a name="built-with"></a>
-    Webpack
     HTML
     CSS
-    Javascript (ES6)
-    Linters
+    Javascript
+    Linter Configuration
+    Visual Studio Code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,9 +75,9 @@
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone `https://github.com/annaeliana7/ADD LINK.git`
+- On the terminal run this command git clone `https://github.com/annaeliana7/Mountain-Formation.git`
 
-- Go to the repository folder using command prompt cd `NAME OF PROJECT`
+- Go to the repository folder using command prompt cd `Mountain Formation`
 
 - Install the dev dependencies for linters run npm install.
 
@@ -96,9 +98,9 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://ADD LINK.git
+- On the terminal run this command git clone https://github.com/annaeliana7/Mountain-Formation.git
 
-- Go to the repository folder using command prompt cd NAME-OF-FILE
+- Go to the repository folder using command prompt cd Mountain-Formation
 
 - Install the dev dependencies for linters run npm install.
 --->
@@ -121,7 +123,7 @@ Anna Petras
 
 - Implement some UX improvements: added transitions and/or animation.
 
-- Implement additional pages.
+- A carousel feature was added, allowing users to navigate through images by clicking the arrows.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +132,7 @@ Anna Petras
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://ADD LINK.git).
+Feel free to check the [issues page](https://github.com/annaeliana7/Mountain-Formation/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
