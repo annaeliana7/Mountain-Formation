@@ -1,19 +1,17 @@
-var carousel = document.querySelector('.carousel');
-var images = carousel.querySelectorAll('img');
-var current = 0;
+const carousel = document.querySelector('.carousel');
+const images = carousel.querySelectorAll('img');
+let current = 0;
 
 images[current].classList.add('active');
 
-carousel.querySelector('.prev').addEventListener('click', function() {
+carousel.querySelector('.prev').addEventListener('click', () => {
   images[current].classList.remove('active');
   current = current > 0 ? current - 1 : images.length - 1;
   images[current].classList.add('active');
 });
 
-carousel.querySelector('.next').addEventListener('click', function() {
+carousel.querySelector('.next').addEventListener('click', () => {
   images[current].classList.remove('active');
   current = current < images.length - 1 ? current + 1 : 0;
   images[current].classList.add('active');
 });
-
-
