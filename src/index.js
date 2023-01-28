@@ -15,3 +15,5 @@ carousel.querySelector('.next').addEventListener('click', function() {
   current = current < images.length - 1 ? current + 1 : 0;
   images[current].classList.add('active');
 });
+
+
