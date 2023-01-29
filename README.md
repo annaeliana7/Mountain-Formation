@@ -64,7 +64,7 @@ The Mountain Formation Repo project combines HTML, CSS, and JavaScript to create
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Mountain Formation](https://annaeliana7.github.io/Mountain-Formation/)
+[Mountain Formation](https://annaeliana7.github.io/Mountain-Formation/dist)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
