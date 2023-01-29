@@ -1,3 +1,5 @@
+import './style.css';
+
 const carousel = document.querySelector('.carousel');
 const images = carousel.querySelectorAll('img');
 let current = 0;
