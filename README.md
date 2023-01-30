@@ -43,7 +43,7 @@
 
 **Mountain Formation** 
 <br>
-The Mountain Formation Repo project combines HTML, CSS, and JavaScript to create an attractive carousel feature that illustrates the formation of mountains using captivating images. Additionally, an educational blog about the topic is provided to deepen the user's understanding.
+The Mountain Formation Repo project combines HTML, CSS, JavaScript, linters and webpack to create an attractive carousel feature that illustrates the formation of mountains using captivating images. Additionally, an educational blog about the topic is provided to deepen the user's understanding.
 
 <br>
 
