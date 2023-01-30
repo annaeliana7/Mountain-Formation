@@ -52,7 +52,7 @@ The Mountain Formation Repo project combines HTML, CSS, JavaScript, linters and 
     CSS
     Javascript
     Linter Configuration
-    Visual Studio Code
+    Webpack
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
